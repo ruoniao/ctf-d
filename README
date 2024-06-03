@@ -1,0 +1,3 @@
+  一个简单的容器实现：包含 cgroups资源限制、namespace资源隔离、调用clone底层函数进程创建、
+exec函数的使用、进程内存大小限制stack、进程间socket通讯（FD_CLOEXEC设置时调用exec会自动关闭文件）、进程的mount重新挂载，更新/目录，卸载旧目录等、
+prctl设置进程capabilitie能力，seccomp过滤器设置进程系统调用，exec函数使用等知识点。
