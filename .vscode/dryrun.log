@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/app/source/ctn-d'
+gcc -Wl,--no-as-needed -g -lcap -lseccomp ctn-d.c -o ctn-d
+make: Leaving directory '/app/source/ctn-d'
+ 

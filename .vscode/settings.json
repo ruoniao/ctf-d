@@ -1,0 +1,21 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "stat.h": "c",
+        "proc.h": "c",
+        "spinlock.h": "c",
+        "defs.h": "c",
+        "riscv.h": "c",
+        "*.tcc": "c",
+        "compare": "c",
+        "concepts": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "cmath": "c",
+        "limits": "c",
+        "new": "c",
+        "array": "c",
+        "utility": "c"
+    }
+}
